@@ -1,0 +1,24 @@
+body
+{
+
+}
+
+.mybox
+{
+	text-align: center;
+}
+
+.mybox span
+{
+	font-size: 60px;
+}
+
+.mypad
+{
+	margin-top: 60px;
+	text-align: center;
+}
+.jumbotron
+{
+	text-align: center;
+}
